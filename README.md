@@ -13,4 +13,4 @@ The docker image for this project can be found [here](https://hub.docker.com/r/w
 * Follow the instruction to complete the translation.
 
 ### Video Demo
-Vide demo can be found [here](www.youtube.com)
+Vide demo can be found [here](https://youtu.be/ksr8CKFith8).
