@@ -1,6 +1,6 @@
 # Docker Container: Docker_GoogleTranslate
 This is the second individual project for ECE 590: Data Analysis at Scale in the Cloud. 
-<br> In this project, I build a docker container with a python script that can translate texts in any language into Enligsh in AWS Cloud9 that uses the official Python base image.
+<br> In this project, I build a docker container with a python script that can translate texts in any language into Enligsh in AWS Cloud9 that uses the official Python base image. I also use circleci for continuous integration.
 
 ### Docker Image
 The docker image for this project can be found [here](https://hub.docker.com/r/wh132/docker_googletranslate).
