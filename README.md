@@ -6,7 +6,7 @@ This is the second individual project for ECE 590: Data Analysis at Scale in the
 The docker image for this project can be found [here](https://hub.docker.com/r/wh132/docker_googletranslate).
 
 ### Run the Docker Image
-* Open your terminal or Cloud9 environment
+* Open your terminal or Cloud9 or GCP environment
 * Run the command `docker pull wh132/docker_googletranslate`
 * Run the command  `docker run -it wh132/docker_googletranslate bash` for creating a bash environment with the docker image.
 * Run the command `python app.py`
